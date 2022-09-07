@@ -73,3 +73,16 @@ simple_shell.c - essential functions to the shell
 main - the main function of the program
 
 sig_handler - handles SIGINT
+strfunc.c - functions related to string manipulation
+
+_puts - writes a string to standart output
+
+_strdup - duplicates a string
+
+_strcmpr - compares two strings
+
+_strcat - concatenates two strings with a / in the middle
+
+_strlen - calculates the length of a string
+
+
