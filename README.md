@@ -22,4 +22,8 @@ new_setenv - initializes a new environment variable, or modifies an existing one
 
 new_unsetenv - removes an environment variable
 
+environment.c - functions related to the environment
 
+make_env - creates the shell's environment from the parent process
+
+free_env - frees the shell's environment
