@@ -88,3 +88,29 @@ _strlen - calculates the length of a string
 tokenize.c - tokenizing function
 
 tokenize - creates an array of tokens from a buffer with a specified delimiter
+
+Features
+
+ uses the PATH
+
+ implements builtins
+
+ handles command line arguments
+
+ custom strtok function
+
+ uses exit status
+
+ shell continues upon Crtl+C (^C)
+
+ handles comments (#)
+
+ handles ;
+
+ custom getline type function
+
+ handles && and ||
+
+ aliases
+
+ variable replacement
