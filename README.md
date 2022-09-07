@@ -68,4 +68,8 @@ execute_cwd - executes a command with an absolute path
 
 check_for_dir - checks if the command contains an absolute path
 
+simple_shell.c - essential functions to the shell
 
+main - the main function of the program
+
+sig_handler - handles SIGINT
