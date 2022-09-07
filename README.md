@@ -27,3 +27,13 @@ environment.c - functions related to the environment
 make_env - creates the shell's environment from the parent process
 
 free_env - frees the shell's environment
+
+builtins2.c - helper functions for the builtins
+
+add_key - creates a new environment variable
+
+find_key - finds an environment variable in the environment array
+
+add_value - creates a new environment variable string
+
+_atoi - converts a string into a non-negative integer
