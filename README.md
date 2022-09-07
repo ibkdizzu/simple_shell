@@ -55,3 +55,17 @@ new_strtok.c - custom strtok and helper functions
 check_match - checks if a character matches any in a string
 
 new_strtok - a custom strtok for the shell
+
+path.c - functions related to executing commands
+
+path_execute - executes a command in the PATH
+
+find_path - finds the PATH environment variable
+
+check_for_path - checks if the command is in the PATH
+
+execute_cwd - executes a command with an absolute path
+
+check_for_dir - checks if the command contains an absolute path
+
+
