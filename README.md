@@ -131,3 +131,6 @@ Builtins
 
  history
 
+Bugs
+
+At this time, there are no known bugs.
