@@ -85,4 +85,6 @@ _strcat - concatenates two strings with a / in the middle
 
 _strlen - calculates the length of a string
 
+tokenize.c - tokenizing function
 
+tokenize - creates an array of tokens from a buffer with a specified delimiter
