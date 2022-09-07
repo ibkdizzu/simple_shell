@@ -37,3 +37,11 @@ find_key - finds an environment variable in the environment array
 add_value - creates a new environment variable string
 
 _atoi - converts a string into a non-negative integer
+
+errors.c - functions related to printing errors
+
+print_error - prints an error message to the standard error
+
+_puts2 - prints a string to the standard error
+
+_uitoa - converts an unsigned integer to a string
