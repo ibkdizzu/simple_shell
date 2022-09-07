@@ -114,3 +114,20 @@ Features
  aliases
 
  variable replacement
+
+Builtins
+
+ exit
+
+ env
+
+ setenv
+
+ unsetenv
+
+ cd
+
+ help
+
+ history
+
