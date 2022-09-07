@@ -45,3 +45,13 @@ print_error - prints an error message to the standard error
 _puts2 - prints a string to the standard error
 
 _uitoa - converts an unsigned integer to a string
+
+memory_allocation.c - memory allocation functions
+
+_realloc - a custom realloc function for arrays of pointers
+
+new_strtok.c - custom strtok and helper functions
+
+check_match - checks if a character matches any in a string
+
+new_strtok - a custom strtok for the shell
